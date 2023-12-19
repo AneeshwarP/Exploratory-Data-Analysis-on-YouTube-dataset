@@ -18,6 +18,8 @@ Statistical Analysis: Discover in-depth statistical analyses that provide valuab
 
 Data Cleaning: Learn about the crucial process of data preprocessing and cleaning, where I transform messy datasets into structured, usable information.
 
-Project Report: You can delve into the details in my project report, where I've documented my entire analysis process, including code and actionable takeaways.
+Collaboration and Feedback:
+
+I'm open to collaboration and feedback! If you have any questions, suggestions, or would like to work together on a project, feel free to reach out through GitHub or email me at aneeshwarpmech@gmail.com
 
 Thank you for visiting my data analysis repository. I hope you find these projects both informative and inspiring. Don't forget to star the repository if you find it valuable!
